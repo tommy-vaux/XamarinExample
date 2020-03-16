@@ -11,3 +11,16 @@ C:\Users\tommy\Documents\GitHub\XamarinTest\AwesomeApp\AwesomeApp\AwesomeApp\obj
 C:\Users\tommy\Documents\GitHub\XamarinTest\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
 C:\Users\tommy\Documents\GitHub\XamarinTest\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
 C:\Users\tommy\Documents\GitHub\XamarinTest\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+D:\Documents\Github\XamarinExample\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb

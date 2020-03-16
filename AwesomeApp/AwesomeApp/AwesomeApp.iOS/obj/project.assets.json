@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinTest\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+      "projectUniqueName": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
       "projectName": "AwesomeApp.iOS",
-      "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinTest\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+      "projectPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
       "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinTest\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\obj\\",
+      "outputPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tommy\\Documents\\GitHub\\XamarinTest\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
-              "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinTest\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
+            "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
+              "projectPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
             }
           }
         }
