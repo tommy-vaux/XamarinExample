@@ -8,10 +8,10 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to the login page!" 
            HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-        <Button Text="Open Dat Door lol" Clicked="Open_Door"/>
+           VerticalOptions="CenterAndExpand" FontSize="Large" />
+        <Button Text="Open Dat Door lol" Clicked="Open_Door" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
     </StackLayout>
 
 </ContentPage>
