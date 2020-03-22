@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
       "projectName": "AwesomeApp.Android",
-      "projectPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
+      "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
       "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
-              "projectPath": "D:\\Documents\\Github\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
+            "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
+              "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
             }
           }
         }

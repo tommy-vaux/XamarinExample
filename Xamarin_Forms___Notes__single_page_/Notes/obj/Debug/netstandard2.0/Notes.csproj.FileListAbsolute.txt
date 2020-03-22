@@ -1,0 +1,12 @@
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\tommy\Documents\GitHub\XamarinExample\Xamarin_Forms___Notes__single_page_\Notes\obj\Debug\netstandard2.0\Notes.pdb
