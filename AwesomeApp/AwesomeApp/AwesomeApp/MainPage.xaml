@@ -8,11 +8,6 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to the main login page of the door app!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-        <Button Text="Open Dat Door lol" Clicked="Open_Door"/>
-        <Button Text="Reset Pin" Clicked="Reset_Pin"/>
     </StackLayout>
 
 </ContentPage>

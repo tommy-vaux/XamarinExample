@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EntryTutorial.MainPage">
+    <StackLayout Margin="20,35,20,20">
+        <Label Text="create a new code" HorizontalOptions="CenterAndExpand" FontSize="Title" Margin="0,50,0,0"/>
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+            <Entry Placeholder="Enter Code" TextChanged="checkIfCorrect" MaxLength="4" IsPassword="True" IsTextPredictionEnabled="False" IsSpellCheckEnabled="False"/>
+            <Entry Placeholder="Verify" TextChanged="checkIfCorrect" MaxLength="4" IsPassword="True" IsTextPredictionEnabled="False" Margin="0,30,0,60" IsSpellCheckEnabled="False"/>
+            <Button Text="Submit" Pressed="SaveCode"/>
+        </StackLayout>
+        
+    </StackLayout>
+</ContentPage>
+<<!-- HELP https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.stacklayout?view=xamarin-forms-->
