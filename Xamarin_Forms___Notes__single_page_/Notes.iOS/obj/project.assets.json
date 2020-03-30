@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\Notes.iOS.csproj",
+      "projectUniqueName": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\Notes.iOS.csproj",
+      "projectPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\Notes.iOS.csproj",
       "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\obj\\",
+      "outputPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -849,8 +849,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
-              "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj"
+            "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
+              "projectPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj"
             }
           }
         }

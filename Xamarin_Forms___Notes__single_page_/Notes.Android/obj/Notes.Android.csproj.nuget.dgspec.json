@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj": {}
+    "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj": {
+    "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj",
         "projectName": "Notes.Android",
-        "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj",
+        "projectPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\Notes.Android.csproj",
         "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\obj\\",
+        "outputPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
-                "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj"
+              "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
+                "projectPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
+    "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj",
         "projectName": "Notes",
-        "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj",
+        "projectPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\Notes.csproj",
         "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\obj\\",
+        "outputPath": "D:\\Documents\\Github\\XamarinExample\\Xamarin_Forms___Notes__single_page_\\Notes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
